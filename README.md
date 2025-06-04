@@ -6,8 +6,6 @@ A comprehensive collection of interactive web projects built with JavaScript, Ty
 difficulty level. This repository serves as both a learning resource and a showcase of modern web development
 techniques.
 
-#### ℹ️ Author: [@nagoev-alim](https://github.com/nagoev-id)
-
 ## 🚀 Overview
 
 This repository contains 75+ projects ranging from simple components to complex applications, all built with
@@ -16,12 +14,9 @@ of all skill levels find appropriate challenges.
 
 ## 🛠️ Tech Stack
 
-- **Languages:
-  ** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/)
+- **Languages:** [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) / [TypeScript](https://www.typescriptlang.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Framework:** [React](https://reactjs.org/) (for selected projects)
-- **Data Fetching:
-  ** [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), [Axios](https://axios-http.com/)
+- **Data Fetching:** [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API), [Axios](https://axios-http.com/)
 - **Storage:** LocalStorage, SessionStorage
 - **Utilities:** Various libraries for specific functionality
 
@@ -51,7 +46,7 @@ More complex applications with advanced state management and API integrations:
 | 1  | [Notes App](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/notes-app)                                           | A simple application for creating, editing, and managing notes.       |
 | 2  | [Todos List App](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/todos-list-app)                                 | A task management application to track and organize your to-do items. |
 | 3  | [Memory Game App](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/memory-game-app)                               | A card-matching memory game to test and improve your memory skills.   |
-| 4  | [Countdown App (React)](https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Breact-tailwind%5Dcountdown-app)           | A countdown timer implemented using React and Tailwind CSS.           |
+| 4  | [Countdown App (React)](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/countdown-app)                           | A countdown timer implemented using React and Tailwind CSS.           |
 | 5  | [Currency Converter App](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/currency-converter-app)                 | A tool to convert between different currencies using exchange rates.  |
 | 6  | [Dropdown UI App](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/dropdown-ui-app)                               | A customizable dropdown interface component implementation.           |
 | 7  | [Drum Kit App](https://github.com/nagoev-id/javascript-projects/tree/main/projects/easy/drum-kit-app)                                     | An interactive virtual drum set you can play with keyboard or mouse.  |
