@@ -4,6 +4,8 @@
 
 A collection of JavaScript/TypeScript projects implemented with Tailwind CSS for practice and learning purposes.
 
+#### ℹ️ Author: [@nagoev-alim](https://github.com/nagoev-id)
+
 ## Project List
 
 ### Easy Level Projects
@@ -87,6 +89,87 @@ A collection of JavaScript/TypeScript projects implemented with Tailwind CSS for
 
 1. **Music Player App** - A full-featured audio player for music playback.
 2. **Meal Finder App** - An application to discover and display meal recipes.
+
+## Project Paths
+
+| # | Project Name | Path |
+|---|-------------|------|
+| 1 | Notes App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dnotes-app/ |
+| 2 | Todos List App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtodos-list-app/ |
+| 3 | Memory Game App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dmemory-game-app/ |
+| 4 | Countdown App (React) | [easy][react-tailwind]countdown-app/ |
+| 5 | Currency Converter App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcurrency-converter-app/ |
+| 6 | Dropdown UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Ddropdown-ui-app/ |
+| 7 | Drum Kit App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Ddrum-kit-app/ |
+| 8 | Expense Tracker App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dexpense-tracker-app/ |
+| 9 | Feedback Form App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dfeedback-form-app/ |
+| 10 | Translator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtranslator-app/ |
+| 11 | Price Range Slider App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dprice-range-slider-app/ |
+| 12 | Products Filter App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dproducts-filter-app/ |
+| 13 | Products Filter Form App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dproducts-filter-form-app/ |
+| 14 | QR Code Reader App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dqr-code-reader-app/ |
+| 15 | Quote Generator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dquote-generator-list-app/ |
+| 16 | Random User Generator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Drandom-user-generator-app/ |
+| 17 | Rock Paper Scissors Game App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Drock-paper-scissors-game-app/ |
+| 18 | Roll Dice App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Droll-dice-app/ |
+| 19 | Save Text as File App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dsave-text-as-file-app/ |
+| 20 | Search API List App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dsearch-api-list-app/ |@
+| 21 | Sortable Table App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dsortable-table-app/ |
+| 22 | State Capital Lookup App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dstate-capital-lookup-app/ |
+| 23 | Stats Numbers UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dstats-numbers-ui-app/ |
+| 24 | Stopwatch App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dstopwatch-app/ |
+| 25 | Switchable Tabs UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dswitchable-tabs-ui-app/ |
+| 26 | Tags Input Box App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtags-input-box-app/ |
+| 27 | Twitty Microposts App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtwitty-microposts-app/ |
+| 28 | Type Converter App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtype-converter-app/ |
+| 29 | Type Writer Effect UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtype-writer-effect-ui-app/ |
+| 30 | Typing Speed Test App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtyping-speed-test-app/ |
+| 31 | URL Shortener App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Durl-shortener-app/ |
+| 32 | Verify Account Numbers UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dverify-account-numbers-ui-app/ |
+| 33 | Weather App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dweather-app/ |
+| 34 | Wikipedia Mini App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dwikipedia-mini-app/ |
+| 35 | YouTube to MP3 App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dyou-tube-to-mp3-app/ |
+| 36 | Workout Tracker App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dworkout-tracker-app/ |
+| 37 | QR Code Generator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dqr-code-generator-app]/ |
+| 38 | Pokedex Pagination App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dpokedex-pagination-app/ |
+| 39 | Zipcode App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dzipcode-app/ |
+| 40 | Password Strength App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dpassword-strength-app/ |
+| 41 | Password Generator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dpassword-generator-app/ |
+| 42 | Number Facts App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dnumber-facts-app/ |
+| 43 | Modal Window App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dmodal-window-app/ |
+| 44 | Key Detector App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dkey-detector-app/ |
+| 45 | IP Address Tracker App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dip-address-tracker-app/ |
+| 46 | Image Resizer App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dimage-resizer-app/ |
+| 47 | Image Editor App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dimage-editor-app/ |
+| 48 | Guess Random Number App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dguess-random-number-app/ |
+| 49 | Guess Random Number Second App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dguess-random-number-second-app/ |
+| 50 | GitHub Pagination App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dgithub-pagination-app/ |
+| 51 | Game Word Scramble App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dgame-word-scramble-app/ |
+| 52 | Filtered Users App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dfiltered-users-app/ |
+| 53 | Toggle Dark Mode UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtoggle-dark-mode-ui-app/ |
+| 54 | Toast Notification App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtoast-notification-app/ |
+| 55 | TTS App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtts-app/ |
+| 56 | Timer App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dtimer-app/ |
+| 57 | Quiz App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dquiz-app/ |
+| 58 | Cookies App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcookies-app/ |
+| 59 | Color Generator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcolor-generator-app/ |
+| 60 | Color Finder App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcolor-finder-app/ |
+| 61 | Counter App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcounter-app/ |
+| 62 | Characters Counter App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcharacters-counter-app/ |
+| 63 | Calculator Loan App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcalculator-loan-app/ |
+| 64 | Calculator App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dcalculator-app/ |
+| 65 | Breathing Relaxation App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dbreathing-relaxation-app/ |
+| 66 | Alarm Clock App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dalarm-clock-app/ |
+| 67 | Accordions UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Daccordions-ui-app/ |
+| 68 | Movie Finder App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dmovie-finder-app/ |
+| 69 | Star Ratings UI App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dstar-ratings-ui-app/ |
+| 70 | Movie Seat Booking App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dmovie-seat-booking-app/ |
+| 71 | Drink Water Tracker App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Ddrink-water-tracker-app/ |
+| 72 | Dictionary App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Ddictionary-app/ |
+| 73 | Book List App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Dbook-list-app/ |
+| 74 | Anime Watch Tracker App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Beasy%5D%5Bjs-ts-tailwind%5Danime-watch-tracker-app/ |
+| 75 | Music Player App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Bmedium%5D%5Bjs-ts-tailwind%5Dmusic-player-app/ |
+| 76 | Meal Finder App | https://github.com/nagoev-id/javascript-projects/tree/main/%5Bmedium%5D%5Bjs-ts-tailwind%5Dmeal-finder-app/ |
 
 ## Project Structure
 
